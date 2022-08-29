@@ -1,5 +1,5 @@
 # Hyper-V
-  控制台 -> 程式和功能 -> 開啟或關閉 Windows 功能 -> Hyper-V 
+  控制台 -> 程式和功能 -> 開啟或關閉 Windows 功能 -> Hyper-V \
   https://docs.microsoft.com/zh-tw/virtualization/hyper-v-on-windows/about/ 
 
 # VMware ESXi 
