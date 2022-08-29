@@ -2,7 +2,7 @@
   控制台 -> 程式和功能 -> 開啟或關閉 Windows 功能 -> Hyper-V \
   https://docs.microsoft.com/zh-tw/virtualization/hyper-v-on-windows/about/ 
 
-# VMware ESXi 
+# VMware ESXi 博通收購 VMware
   https://www.vmware.com/tw/products/esxi-and-esx.html
 
 # VirtualBox
