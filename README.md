@@ -14,16 +14,16 @@
 # PVE Proxmox Virtual Environment 
   https://pve.proxmox.com/wiki/Main_Page
   
- 
 # NAS
 
 # OpenWrt 
   https://openwrt.org/
 
-
 # Synology  黑群暉7.0 DSM7
   https://www.openos.org/forums/synology-dsm/
-
+  
+# DiskStation Manager 7.1
+  https://www.synology.com/en-us/DSM71
 
 # 群暉
   https://www.synology.com/zh-tw
