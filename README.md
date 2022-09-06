@@ -1,6 +1,8 @@
 # Hyper-V
   控制台 -> 程式和功能 -> 開啟或關閉 Windows 功能 -> Hyper-V \
   https://docs.microsoft.com/zh-tw/virtualization/hyper-v-on-windows/about/ 
+  Hyper-V虚拟机环境安装OpenWrt
+  树莓派4b刷入自编译Lean OpenWrt
 
 # VMware ESXi 博通收購 Broadcom VMware
   https://www.vmware.com/tw/products/esxi-and-esx.html
