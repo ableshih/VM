@@ -14,6 +14,7 @@
 # NAS
 
 # FreeNAS TrueNAS® CORE
+  下載為 ISO -> 燒到 USB 開機安裝 
   https://www.truenas.com/
   https://www.truenas.com/freenas/
   https://download.freenas.org/?__hstc=123088916.132aa41b6ef21d22d1eacefc83d10912.1662441542634.1662441542634.1662441542634.1&__hssc=123088916.5.1662441542635&__hsfp=3594730484
