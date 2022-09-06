@@ -13,8 +13,12 @@
   
 # NAS
 
-# FreeNAS
+# FreeNAS TrueNAS® CORE
   https://www.truenas.com/
+  https://www.truenas.com/freenas/
+  https://download.freenas.org/?__hstc=123088916.132aa41b6ef21d22d1eacefc83d10912.1662441542634.1662441542634.1662441542634.1&__hssc=123088916.5.1662441542635&__hsfp=3594730484
+  https://download.freenas.org/13.0/STABLE/U2/x64/TrueNAS-13.0-U2.iso?__hstc=123088916.132aa41b6ef21d22d1eacefc83d10912.1662441542634.1662441542634.1662441542634.1&__hssc=123088916.7.1662441542635&__hsfp=3594730484
+  https://www.truenas.com/download-truenas-core/
 
 # OpenWrt 
   https://openwrt.org/
